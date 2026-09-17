@@ -18,7 +18,7 @@ Enjoy! :)
 ### https://iq01.xo.je
 
 This is my personal website that I use both for business and personal projects.
-At the bottom of the page, you can select from over 30 color themes which are "remembered" after leaving the page (assuming you have cookies enabled).
+At the bottom of the page, you can select from over 30 color themes which are "remembered" after leaving the page (assuming you have cookies enabled). Note that you must click each header to open its corresponding panel of information. 
 I have attached some of the scripts in this Projects directory.
 
 ---
@@ -38,7 +38,7 @@ It randomly draws spinning Chakras and is a good meditation aid.
 I developed every aspect of this project, including the user interface and scripts. 
 Note: hitting the question mark key toggles the help panel. Enjoy!
 
-Depending on which browser you use, Chakra may run quite rapidly. 
+Depending on which browser and OS you use, Chakra may run quite rapidly, which might detract from its beauty. 
 Use the Up and Down arrow keys to adjust rendering speed.
 (Note: for best results, Chakra should be run on a machine with hardware graphics acceleration. 
 Otherwise it can run pretty slowly. Even with hardware acceleration it can still run slowly depending on the complexity of the chakra.)
@@ -52,18 +52,41 @@ It was written entirely in TypeScript and generates random quests, along with ra
 (See the above links for the actual TypeScript version if interested.)
 It's basically working but needs refinement, which I will work on as I have time.
 But it does work and is a good starting point for any roleplaying adventure!
-Suggestions for improvement are welcome and I will do my best to incorporate them if I think they are worthwile.
+Suggestions for improvement are welcome and I will do my best to incorporate them if I think they are worthwhile.
 (Cre is a work-in-progress and I will provide updates as I go.)
 
 ---
 
 ### https://iq01.xo.je/x/mapper.php
 
-This is a random map generator written entirely in JavaScript.
+This is a random map generator written entirely in JavaScript developed by me; this was before I began using AI-assisted development.
 It uses a "random walk" algorithm to generate maps for role-playing games.
 The "Random Seed" field allows you to repeat a map if desired.
 Use an empty field to generate a random map, or use a specific string or numeric value to repeat a map.
 Using the same value will always redraw a map so you can "save" any desired map!
+
+---
+
+### https://iq01.xo.je/x/terrain-mapper.html
+
+This is my first experiment using AI. I wanted a terrain generator for RPG games.
+I used Claude to see what it would come up with. I only asked for the mapping algorithm and was planning on doing everything else myself.
+However, it produced a fully functional application and user interface!
+It comes up with some pretty amazing maps!
+
+---
+
+### https://iq01.xo.je/x/dungeon-mapper.html
+
+This is my second experiment using AI. I wanted an internal dungeon generator for RPG games.
+It's not quite as flashy as the terrain generator above but I'm still pleased with the results.
+
+---
+
+### https://iq01.xo.je/d/zengreen/logo_532x700.png
+
+This is a logo I designed for a marijuana retailer website based in Seattle.
+*** NOTE THAT THIS MIGHT NOT BE SAFE FOR WORK!! ***
 
 ---
 
@@ -124,6 +147,8 @@ Nothing fancy, just something for a quick helper method.
 Don't ask! :) 
 
 ### https://iq01.xo.je/drunkbots.html
+
+### https://iq01.xo.je/x/darrylfish.html
 
 ### https://iq01.xo.je/portfolio_ui.php
 
