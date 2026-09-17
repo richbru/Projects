@@ -73,6 +73,7 @@ This is my first experiment using AI. I wanted a terrain generator for RPG games
 I used Claude to see what it would come up with. I only asked for the mapping algorithm and was planning on doing everything else myself.
 However, it produced a fully functional application and user interface!
 It comes up with some pretty amazing maps!
+If you like a particular map, make a note of the Map Key and you can re-generate that same map any time.
 
 ---
 
