@@ -84,9 +84,9 @@ It's not quite as flashy as the terrain generator above but I'm still pleased wi
 
 ---
 
-### https://iq01.xo.je/d/zengreen/logo_532x700.png
+### https://zen-green.xo.je
 
-This is a logo I designed for a marijuana retailer website based in Seattle.
+This is a website I designed for a Seattle-based marijuana retailer.
 *** NOTE THAT THIS MIGHT NOT BE SAFE FOR WORK!! ***
 
 ---
