@@ -105,7 +105,7 @@ Good luck!
 
 I developed the JavaScript Superset several years ago to extend JavaScript's functionality.
 Fortunately, ES6 has many of these features now included.
-I haven't edited the Superset in years and don't plan to -- it is just a showcase of my work.
+I haven't edited the Superset in years and don't plan to -- it is just a showcase of some of my earlier work.
 
 ---
 
@@ -126,7 +126,7 @@ This mini-app computes the "digital sum" of any numeric string.
 ### https://iq01.xo.je/helpers/text-formatter.html
 
 This mini-app formats text based on user settings.
-If there are any additional [requested features](mailto:helper-request@iq01.com), email me and I will consider adding them!
+If there are any additional [requested features](mailto:contact.barn375@passinbox.com), email me and I will consider adding them!
 
 ### https://iq01.xo.je/x/dateadd.html
 
