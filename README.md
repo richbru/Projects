@@ -11,6 +11,11 @@ If you view the source code for that project, you will see a very old style of J
 But the great thing about JavaScript is that it all still works!
 I try to stay current and use the latest JavaScript practices. 
 
+All AI experiments are basically a test to see what AI could come up with.
+I created and refined the AI prompts to get the desired results.
+I have written quite a few specs over the years so I know what to ask for; but even my AI prompts have evolved as I understand the technology better.
+I truly believe AI-assisted development is the future of software so that's where I'm focusing.
+
 Enjoy! :) 
 
 ---
@@ -69,7 +74,7 @@ Using the same value will always redraw a map so you can "save" any desired map!
 
 ### https://iq01.xo.je/x/terrain-mapper.html
 
-This is my first experiment using AI. I wanted a terrain generator for RPG games.
+This is my first experiment using AI. I wanted a terrain generator for role-playing games.
 I used Claude to see what it would come up with. I only asked for the mapping algorithm and was planning on doing everything else myself.
 However, it produced a fully functional application and user interface!
 It comes up with some pretty amazing maps!
@@ -79,7 +84,7 @@ If you like a particular map, make a note of the Map Key and you can re-generate
 
 ### https://iq01.xo.je/x/dungeon-mapper.html
 
-This is my second experiment using AI. I wanted an internal dungeon generator for RPG games.
+This is my second experiment using AI. I wanted an internal dungeon generator for role-playing games.
 It's not quite as flashy as the terrain generator above but I'm still pleased with the results.
 
 ---
@@ -93,7 +98,7 @@ This is the homepage I designed for a Seattle-based marijuana retailer.
 
 ### https://iq01.xo.je/x/poetry.html
 
-A random poetry generator. Or rather, a random poetry *IDEA* generator, good for coming up with line ideas for a poem but maybe not the entire poem itself. 
+A random poetry generator. Or rather, a random poetry *IDEA* generator, good for experimenting with individual line ideas for a poem but maybe not the entire poem itself. 
 Years ago, long before the advent of AI, I wrote a similar app using Visual Basic.
 It worked pretty well so I decided to see what AI could come up with.
 And while the AI version worked as well, its vocabulary choices were not as elegant.
@@ -101,6 +106,17 @@ My version was, well, more *poetic* in my opinion.
 So I took the structure the AI came up with, plugged in my original vocabulary entries, and went from there.
 The result is a good blend of both. 
 You can see the original AI version here for comparison: https://iq01.xo.je/x/poetry-ai.html
+
+---
+
+### https://iq01.xo.je/x/alien-alphabet.html
+### https://iq01.xo.je/x/alien-alphabet-led.html
+
+Another AI experiment. 
+They both randomly generate "alien" alphabets for use in sci-fi novels, videos or whatever.
+You can set colors to whatever you want for clarity and contrast.
+The LED version is a bit more unified but both are good for coming up with ideas for "communication" with your favorite alien species.
+Enjoy!
 
 ---
 
