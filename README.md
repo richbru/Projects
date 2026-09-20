@@ -91,6 +91,19 @@ This is the homepage I designed for a Seattle-based marijuana retailer.
 
 ---
 
+### https://iq01.xo.je/x/poetry.html
+
+A random poetry generator. Or rather, a random poetry *IDEA* generator, good for coming up with line ideas for a poem but maybe not the entire poem itself. 
+Years ago, long before the advent of AI, I wrote a similar app using Visual Basic.
+It worked pretty well so I decided to see what AI could come up with.
+And while the AI version worked as well, its vocabulary choices were not as elegant.
+My version was, well, more *poetic* in my opinion.
+So I took the structure the AI came up with, plugged in my original vocabulary entries, and went from there.
+The result is a good blend of both. 
+You can see the original AI version here for comparison: https://iq01.xo.je/x/poetry-ai.html
+
+---
+
 ### https://iq01.xo.je/x/routing.html
 
 This project validates cheque routing numbers.
