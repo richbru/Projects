@@ -31,7 +31,7 @@ I have attached some of the scripts in this Projects directory.
 ### https://iq01.xo.je/x/mock/bull.php
 
 This is a bullion tracker I wrote to track investments.
-(All of the data on this page -- except the actual gold and silver prices -- is mock data, used only for illustration purposes of the functionality.)
+Note that all of the data on this page -- except for the actual gold and silver prices -- is mock data, used only for illustration purposes of the functionality.
 This tracker displays the current market gold and silver prices, along with various investments and their current values.
 
 ---
