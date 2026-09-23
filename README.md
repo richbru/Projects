@@ -107,6 +107,8 @@ So I took the structure the AI came up with, plugged in my original vocabulary e
 The result is a good blend of both. 
 You can see the original AI version here for comparison: https://iq01.xo.je/x/poetry-ai.html
 
+Note that this poetry generator does not include spelling or grammatical checking, so you'll have to do that with separate tools.
+
 ---
 
 ### https://iq01.xo.je/x/alien-alphabet.html
