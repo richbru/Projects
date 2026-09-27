@@ -50,7 +50,7 @@ Otherwise it can run pretty slowly. Even with hardware acceleration it can still
 
 ---
 
-### https://iq01.xo.je/x/cre.php
+### https://iq01.xo.je/x/cre.html
 
 Cre is a role-playing game quest generator.
 It was written entirely in TypeScript and generates random quests, along with random item and character names.
