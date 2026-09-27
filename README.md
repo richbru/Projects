@@ -52,11 +52,11 @@ Otherwise it can run pretty slowly. Even with hardware acceleration it can still
 
 ### https://iq01.xo.je/x/cre.php
 
-Cre is a roleplaying game quest generator.
+Cre is a role-playing game quest generator.
 It was written entirely in TypeScript and generates random quests, along with random item and character names.
 (See the above links for the actual TypeScript version if interested.)
 It's basically working but needs refinement, which I will work on as I have time.
-But it does work and is a good starting point for any roleplaying adventure!
+But it does work and is a good starting point for any role-playing adventure!
 Suggestions for improvement are welcome and I will do my best to incorporate them if I think they are worthwhile.
 (Cre is a work-in-progress and I will provide updates as I go.)
 
