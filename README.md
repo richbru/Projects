@@ -62,7 +62,7 @@ Suggestions for improvement are welcome and I will do my best to incorporate the
 
 ---
 
-### https://iq01.xo.je/x/mapper.php
+### https://iq01.xo.je/x/mapper.html
 
 This is a random map generator written entirely in JavaScript developed by me; this was before I began using AI-assisted development.
 It uses a "random walk" algorithm to generate maps for role-playing games.
@@ -183,7 +183,7 @@ Don't ask! :)
 
 ### https://iq01.xo.je/x/darrylfish.html
 
-### https://iq01.xo.je/portfolio_ui.php
+### https://iq01.xo.je/portfolio_ui.html
 
 ### https://iq01.xo.je/x/ret.html
 
