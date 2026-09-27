@@ -108,6 +108,7 @@ The result is a good blend of both.
 You can see the original AI version here for comparison: https://iq01.xo.je/x/poetry-ai.html
 
 Note that this poetry generator does not include spelling or grammatical checking, so you'll have to do that with separate tools.
+While it can produce some pretty interesting lines of poetry, many times such lines are not grammatically correct but the *essence* of that line might help you brainstorm a better option for an actual poem you are writing.
 
 ---
 
