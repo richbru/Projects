@@ -41,6 +41,8 @@ This tracker displays the current market gold and silver prices, along with vari
 This is a favorite project of mine. 
 It randomly draws spinning Chakras and is a good meditation aid. 
 I developed every aspect of this project, including the user interface and scripts. 
+I've also added the ability -- via Grok -- to have a random seed that can be copied.
+So, if you like a particular Chakra, you can now copy its random Seed and recreate it any time!
 Note: hitting the question mark key toggles the help panel. Enjoy!
 
 Depending on which browser and OS you use, Chakra may run quite rapidly, which might detract from its beauty. 
