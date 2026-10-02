@@ -43,8 +43,11 @@ It randomly draws spinning Chakras and is a good meditation aid.
 I developed every aspect of this project, including the user interface and scripts. 
 I've also added the ability -- via Grok -- to have a random seed that can be copied.
 So, if you like a particular Chakra, you can now copy its random Seed and recreate it any time!
-Just enter the Seed into its field and hit Enter; the original Chakra, along with its original colors, will be redrawn.
+Just enter the Seed into its field and hit Enter; the original Chakra, along with its original colors (unless you have Locked the colors), will be redrawn.
 Note: hitting the question mark key toggles the help panel. Enjoy!
+
+I've updated and polished the Help Panel.
+I've also added help tips -- just mouse-over the "&curren;" symbols (to the left of each setting) for information about what each setting does.
 
 Depending on which browser and OS you use, Chakra may run quite rapidly, which might detract from its beauty. 
 Use the Up and Down arrow keys to adjust rendering speed.
