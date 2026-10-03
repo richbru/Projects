@@ -48,6 +48,7 @@ Note: hitting the question mark key toggles the help panel. Enjoy!
 
 I've updated and polished the Help Panel.
 I've also added help tips -- just mouse-over the "&curren;" symbols (to the left of each setting) for information about what each setting does.
+Note: if you are viewing Chakra on a mobile device, do a "long-press" -- press and hold anywhere on the screen for at least 2 seconds -- to toggle the Help Panel on or off. 
 
 Depending on which browser and OS you use, Chakra may run quite rapidly, which might detract from its beauty. 
 Use the Up and Down arrow keys to adjust rendering speed.
