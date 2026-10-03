@@ -53,7 +53,7 @@ Note: if you are viewing Chakra on a mobile device, do a "long-press" -- press a
 Depending on which browser and OS you use, Chakra may run quite rapidly, which might detract from its beauty. 
 Use the Up and Down arrow keys to adjust rendering speed.
 (Note: for best results, Chakra should be run on a machine with hardware graphics acceleration. 
-Otherwise it can run pretty slowly. Even with hardware acceleration it can still run slowly depending on the complexity of the chakra.)
+Otherwise it can run pretty slowly; even with hardware acceleration it can still run slowly depending on the complexity of the chakra.)
 
 ---
 
