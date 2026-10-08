@@ -154,6 +154,16 @@ I haven't edited the Superset in years and don't plan to -- it is just a showcas
 
 ---
 
+### [Music Listing Spreadsheet](https://docs.google.com/spreadsheets/d/1NDSGTmXxELvpKPipvnmImgm2wsImw7i4iEmSVStLZ_A)
+
+This is a collection of some of my musical interests.
+This spreadsheet will give you an idea of the kinds of music I like.
+You won't be able to edit the items on this list but if you have any suggestions for additions, send me an [email](mailto:contact.barn375@passinbox.com) and I will consider it.
+I won't promise to add it to my list but I will definitely consider the submission.
+And if I do add your suggestion, I will credit you in the "notes" (column L) portion.
+
+---
+
 # Helper Mini-Apps
 
 ### https://iq01.xo.je/x/rgb.html
