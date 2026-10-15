@@ -164,6 +164,14 @@ And if I do add your suggestion, I will credit you in the "notes" (column L) por
 
 ---
 
+### https://iq01.xo.je/x/t-shirts.html
+
+Some t-shirt designs I've come up with over the years.
+Just click one of the shirts and you will be redirected to its respective Amazon page.
+Note that if you get a button saying something like "Click to continue shopping", clicking the button will take you to Amazon's homepage. Just go back and try clicking the shirt again -- it should send you to the correct t-shirt page.
+
+---
+
 # Helper Mini-Apps
 
 ### https://iq01.xo.je/x/rgb.html
