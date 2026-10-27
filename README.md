@@ -158,9 +158,35 @@ I haven't edited the Superset in years and don't plan to -- it is just a showcas
 
 This is a collection of some of my musical interests.
 This spreadsheet will give you an idea of the kinds of music I like.
+But even this list is incomplete.
+I actually like most genres of music, except rap, reggae, and hip-hop (although there are a ***few*** early-1990s rap songs that I enjoy).
+
+**Colors...**
+
+Purple: Simple dividers
+
+Green: Songs that I ***really*** like. Actually, I like all the songs on this list, otherwise they wouldn't be on here! But those in green are my true favorites.
+
+Orange / Red: Missing or incomplete song information
+
+Pink: Other miscellaneous information
+
+**Headers...**
+
+"genre", "artist", "song", "url", "lyrics", "notes", and "notes 2" are self-explanatory.
+
+"len min" and "len sec" are the song's time length in minutes and seconds respectively. 
+At some point, I will build an automated "disc jockey" application for all songs so this information will be needed.
+
+Some songs have distinct segments that I want to emphasize with the above-mentioned DJ app, so these are for that.
+"seg st m" and "seg st s" is the segment start time in minutes and seconds.
+"seg ed m" and "seg ed s" is the segment end time in minutes and seconds.
+
 You won't be able to edit the items on this list but if you have any suggestions for additions, send me an [email](mailto:contact.barn375@passinbox.com) and I will consider it.
 I won't promise to add it to my list but I will definitely consider the submission.
 And if I do add your suggestion, I will credit you in the "notes" (column L) portion, if you want (specify in the email you send with your suggestion).
+
+Grab some URLs for your own listening pleasure and enjoy!
 
 ---
 
