@@ -177,8 +177,7 @@ Pink: Other miscellaneous information
 
 "len min" and "len sec" are the song's time length in minutes and seconds respectively. 
 At some point, I will build an automated "disc jockey" application for all songs so this information will be needed.
-
-Some songs have distinct segments that I want to emphasize with the above-mentioned DJ app, so these are for that.
+Some songs have distinct segments that I want to emphasize with that DJ app, so these are for that.
 "seg st m" and "seg st s" is the segment start time in minutes and seconds.
 "seg ed m" and "seg ed s" is the segment end time in minutes and seconds.
 
