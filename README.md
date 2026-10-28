@@ -159,10 +159,10 @@ I haven't edited the Superset in years and don't plan to -- it is just a showcas
 This is a collection of some of my musical interests.
 This spreadsheet will give you an idea of the kinds of music I like.
 But even this list is incomplete.
-I actually like most genres of music, except rap, reggae, and hip-hop (although there are a ***few*** early-1990s rap songs that I enjoy).
+I actually like most genres of music, except rap, reggae, and hip-hop (although there are a ***few*** early-1990s "old school" rap songs that I enjoy).
 
 **Colors...**
-- Purple: Simple dividers
+- Purple: Genre dividers
 - Green: Songs that I ***really*** like. Actually, I like all the songs on this list, otherwise they wouldn't be on here! But those in green are my true favorites.
 - Orange / Red: Missing or incomplete song information
 - Pink: Other miscellaneous information
