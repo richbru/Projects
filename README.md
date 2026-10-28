@@ -162,20 +162,15 @@ But even this list is incomplete.
 I actually like most genres of music, except rap, reggae, and hip-hop (although there are a ***few*** early-1990s rap songs that I enjoy).
 
 **Colors...**
-
-Purple: Simple dividers
-
-Green: Songs that I ***really*** like. Actually, I like all the songs on this list, otherwise they wouldn't be on here! But those in green are my true favorites.
-
-Orange / Red: Missing or incomplete song information
-
-Pink: Other miscellaneous information
+- Purple: Simple dividers
+- Green: Songs that I ***really*** like. Actually, I like all the songs on this list, otherwise they wouldn't be on here! But those in green are my true favorites.
+- Orange / Red: Missing or incomplete song information
+- Pink: Other miscellaneous information
 
 **Headers...**
+- "genre", "artist", "song", "url", "lyrics", "notes", and "notes 2" are self-explanatory.
+- "len min" and "len sec" are the song's time length in minutes and seconds respectively.
 
-"genre", "artist", "song", "url", "lyrics", "notes", and "notes 2" are self-explanatory.
-
-"len min" and "len sec" are the song's time length in minutes and seconds respectively. 
 At some point, I will build an automated "disc jockey" application for all songs so this information will be needed.
 Some songs have distinct segments that I want to emphasize with that DJ app, so these are for that.
 "seg st m" and "seg st s" is the segment start time in minutes and seconds.
